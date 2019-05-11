@@ -1,3 +1,19 @@
 h1 {
     color: aquamarine;
 }
+
+.bar{
+    background-color: plum;
+    padding: 1cm ;
+
+}
+*{
+    font-family: 'Akronim', cursive;
+}
+
+.mainimage {
+    width: 10cm;
+    margin-left :auto;
+    margin-right:auto;
+    display: block; 
+}
